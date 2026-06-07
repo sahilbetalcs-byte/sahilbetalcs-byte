@@ -17,4 +17,4 @@ Python | SQL | Machine Learning | Streamlit | Salesforce | Power BI
 - 📍 Nagpur, Maharashtra
 
 ## 🔥 Featured Project
-[CardioVision-AI](https://github.com/sahilbetalcs-byte/CardioVision-AI) — Live Demo: https://cardiovision-ai-sahil.streamlit.app
+[CardioVision-AI](https://github.com/sahilbetalcs-byte/CardioVision-AI) — Live Application: https://cardiovision-ai-sahil.streamlit.app
